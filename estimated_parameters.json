@@ -1,0 +1,33 @@
+{
+    "consumption": {
+        "income_elasticity": 0.987,
+        "wealth_elasticity": 0.008,
+        "adjustment_speed": -0.043,
+        "income_short1": 0.209,
+        "income_short2": 0.251,
+        "interest_rate": 0.0005
+    },
+    "investment": {
+        "q_elasticity": -0.019274928868233232,
+        "interest_rate": -0.020738856055735555,
+        "interest_rate_lag": -0.02611145169526824
+    },
+    "export": {
+        "world_demand_elasticity": 15984.8941232111,
+        "exchange_rate_elasticity": -2644.00025200726
+    },
+    "phillips_curve": {
+        "inertia": -0.9986825050890114,
+        "gap_sensitivity": -0.003071574128613189,
+        "money_sensitivity": 0.2321662213780426
+    },
+    "taylor_rule": {
+        "smoothing": 0.95,
+        "inflation_coefficient": 1.5,
+        "gap_coefficient": 0.1931034482758729
+    },
+    "labor_market": {
+        "capacity_sensitivity": -2.220446049250313e-13,
+        "adjustment_speed": 1.5334955527634975e-15
+    }
+}
